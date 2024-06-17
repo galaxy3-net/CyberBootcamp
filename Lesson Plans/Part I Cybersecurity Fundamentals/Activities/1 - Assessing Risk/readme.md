@@ -5,6 +5,8 @@ Activity
 
 >Likelihoods: "Very Unlikely," "Unlikely," "Possible," "Likely," "Very Likely"
 
+|                   Risk Matrix                       |
+| --------------------------------------------------- |
 |               | Low    | Medium | High   | Critical |
 | ------------- | ------ | ------ | ------ | -------- |
 | Very Likely   | Medium | High   | High   | Critical |
