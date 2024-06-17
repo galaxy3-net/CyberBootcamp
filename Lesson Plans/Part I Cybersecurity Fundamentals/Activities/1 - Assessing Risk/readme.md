@@ -1,7 +1,8 @@
-#Activity#
-==========
+Activity
+========
 
 >Impact Levels: "Low," "Medium," "High," "Critical"
+
 >Likelihoods: "Very Unlikely," "Unlikely," "Possible," "Likely," "Very Likely"
 
 Scenario 1:
