@@ -8,13 +8,13 @@ Activity
 |                   Risk Matrix                       |
 | --------------------------------------------------- |
 
-|               | Low    | Medium | High   | Critical |
-| ------------- | ------ | ------ | ------ | -------- |
-| Very Likely   | Medium | High   | High   | Critical |
-| Likely        | Medium | High   | High   | Critical |
-| Possible      | Medium | Medium | Medium | High     |
-| Unlikely      | Low    | Low    | Medium | High     |
-| Very Unlikely | Low    | Low    | Low    | Medium   |
+| **Risk Matrix ** | Low    | Medium | High   | Critical |
+| ---------------- | ------ | ------ | ------ | -------- |
+| Very Likely      | Medium | High   | High   | Critical |
+| Likely           | Medium | High   | High   | Critical |
+| Possible         | Medium | Medium | Medium | High     |
+| Unlikely         | Low    | Low    | Medium | High     |
+| Very Unlikely    | Low    | Low    | Low    | Medium   |
 
 Scenario 1:
 
