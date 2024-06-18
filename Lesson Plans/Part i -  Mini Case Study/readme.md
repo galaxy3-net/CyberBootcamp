@@ -7,7 +7,11 @@ We are tasked with performing a threat analysis for a tax preparation applicatio
 
 Part I - Assessing the Threats
 
-  1. First identify the assets associated with the application.
-     a. The HTML, Javascript, and CSS code that make up the client application.
-     b. The Web Server that answers customer web requests from the Internet, interfaces with the application server, and responds back to the client. 
+  <ol>
+    <li>First identify the assets associated with the application.</li>
+     <ol>
+     <li>The HTML, Javascript, and CSS code that make up the client application.</li>
+     <li>The Web Server that answers customer web requests from the Internet, interfaces with the application server, and responds back to the client.</li>
+     </ol>
+  </ol>
 
