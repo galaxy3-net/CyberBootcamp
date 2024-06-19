@@ -3,15 +3,15 @@ Mini Case Study
 
 ##Overview##
 
-We are tasked with performing a threat analysis for a tax preparation application, then make recommendations for securing the application.
+We've been hired as consultants and tasked with performing a threat analysis for a tax preparation application, then make recommendations for securing it.
 
 Part I - Assessing the Threats
 
   <ol>
-    <li>First identify the assets associated with the application.</li>
+    <li>Begin by identifying the assets associated with the application. Any of those components could be the target of attackers.</li>
      <ol>
-     <li>The HTML, Javascript, and CSS code that make up the client application.</li>
-     <li>The Web Server that answers customer web requests from the Internet, interfaces with the application server, and responds back to the client.</li>
+     <li>Asset #1: The HTML, Javascript, and CSS code that make up the client application.</li>
+     <li>Asset #2: The Web Server processes customer web requests from the Internet, interfaces with the application server, and sends responses to the client.</li>
      </ol>
   </ol>
 
