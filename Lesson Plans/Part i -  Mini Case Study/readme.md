@@ -1,7 +1,7 @@
 Mini Case Study
 ===============
 
-##Overview##
+## Overview ##
 
 We've been hired as consultants and tasked with performing a threat analysis for a tax preparation application, then make recommendations for securing it.
 
